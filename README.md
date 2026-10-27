@@ -9,10 +9,12 @@ cost and accuracy, a self-consistency check and a stratified blind review.
 The production run resolved ~25,000 unique brand strings.
 
 > **Status.** This repository is a cleaned-up restructuring of the scripts used in production
-> (October 2026). The refactored code passes an offline end-to-end test against a mocked API
-> client, and the saved eval results rescore to exactly the original numbers, but it has **not yet
-> been run against the live Anthropic API** in this form. Run `python -m brand_agent.cli smoke-test
-> --n 3` first; if a request format turns out to be off, that is where it will show.
+> (October 2026). The refactored code passes an offline end-to-end test of every command against
+> a mocked API client, and the saved eval results rescore to exactly the original numbers. Against
+> the live Anthropic API it has been checked on a small scale only: the synchronous agent on one
+> brand (GRIMME → Grimme, DE, via tier 2) and the Batch API path on two (John Deere → Deere &
+> Company, US; CLAAS → CLAAS, DE), all matching the benchmark. The QA passes, `agro` and `dedupe`
+> have not been run live in this form.
 
 ## The problem
 
