@@ -1,0 +1,78 @@
+raw_brand_name,input_unified_name,model_unified_brand_name,model_parent_company,model_parent_country,model_confidence,benchmark_parent_company,benchmark_parent_country,tier_used
+JOHN DEERE,John Deere,John Deere,Deere & Company,US,high,Deere & Company,US,1
+CLAAS,CLAAS,CLAAS,CLAAS,DE,high,CLAAS,DE,2
+NEW HOLLAND,New Holland,New Holland,CNH Industrial,NL,high,CNH Industrial,IT,2
+ROPA,ROPA,ROPA,ROPA,DE,high,ROPA,DE,2
+CASE IH,Case IH,Case IH,CNH Industrial,GB,high,CNH Industrial,IT,1
+GERINGHOFF,Geringhoff,Geringhoff,Geringhoff,DE,high,Geringhoff,DE,2
+KRONE,Krone,Krone,Bernard Krone Holding,DE,high,Krone,DE,2
+DRAGO,Drago,Drago,Olimac,IT,high,Olimac,IT,2
+DOMINONI,Dominoni,Dominoni,Dominoni,IT,high,Dominoni,IT,1
+CAPELLO,Capello,Capello,Capello,IT,high,Capello,IT,1
+GRIMME,Grimme,Grimme,Grimme,DE,high,Grimme,DE,2
+MASSEY FERGUSON,Massey Ferguson,Massey Ferguson,AGCO,US,high,AGCO,US,1
+POTTINGER,Pöttinger,Pöttinger,Pöttinger,AT,high,Pöttinger,AT,1
+FANTINI,Fantini,Fantini,"Hamilton Systems, Inc.",US,high,Fantini,IT,1
+DEWULF,Dewulf,Dewulf,Dewulf,BE,high,Dewulf,BE,2
+MAIZCO,Maizco,Maizco,Maizco,AR,high,Maizco,AR,2
+GUARESI,Guaresi,Guaresi,White Bridge Investments,IT,medium,Fyeld (Hyle Capital Partners),IT,1
+FENDT,Fendt,Fendt,AGCO,US,high,AGCO,US,2
+OXBO,OXBO,Oxbo,Ploeger Oxbo Group,NL,medium,Ploeger Oxbo Group,NL,2
+HYLER,Hyler,Hyler,Hyler,BE,high,Hyler,BE,2
+KUHN,Kuhn,Kuhn,Bucher Industries,CH,high,Bucher Industries,CH,2
+VERVAET,Vervaet,Vervaet,Vervaet,NL,high,Vervaet,NL,1
+FRANCO FABRIL,Franco Fabril,Franco Fabril,Franco Fabril,AR,high,Franco Fabril,AR,1
+ZIEGLER,Ziegler,Ziegler,Ziegler,DE,low,Ziegler,DE,2
+KEMPER,Kemper,Kemper,Deere & Company,US,high,Deere & Company,US,2
+PFANNER,Pfanner,Pfanner,Pfanner,AT,medium,Pfanner,AT,1
+CNH INDUSTRIAL,CNH Industrial,CNH Industrial,CNH Industrial,NL,high,CNH Industrial,IT,1
+DEHONDT,Dehondt Technologies,Dehondt Technologies,Depoortere,BE,high,Agri Alliance,BE,1
+LOVOL,Lovol,Lovol,Shandong Heavy Industry Group,CN,high,Weichai Group,CN,2
+RADURA,Radura,Radura,GROUP SCHUMACHER,DE,high,Group Schumacher,DE,2
+ZAFFRANI,Zaffrani,Zaffrani,Zaffrani,IT,high,Zaffrani,IT,1
+VSS AMAC,VSS AMAC,VSS AMAC,VSS Machinebouw,NL,high,VSS AMAC,NL,1
+LISICKI,Lisicki,Lisicki,Lisicki,PL,high,Lisicki,PL,1
+HOLMER,Holmer,Holmer,EXEL Industries,FR,high,EXEL Industries,FR,2
+MACDON,MacDon,MacDon,Linamar,CA,high,Linamar,CA,2
+WIRAX,Wirax,Wirax,Wirax,PL,high,Wirax,PL,2
+NEXAT,Nexat,Nexat,Kalverkamp Innovation,DE,high,Nexat,DE,2
+DEUTZ-FAHR,Deutz-Fahr,Deutz-Fahr,SDF,IT,high,SDF Group,IT,2
+WINTERSTEIGER,Wintersteiger,Wintersteiger,Wintersteiger,DE,medium,Wintersteiger,AT,1
+FACMA,FACMA,FACMA,FACMA,IT,high,FACMA S.r.l.,IT,2
+METALAGRO,MetalAgro,Metalagro,Metalagro,BG,high,MetalAgro AD,BG,1
+MCHALE,McHale,McHale,McHale,IE,high,McHale,IE,2
+ZURN,Zürn,Zürn,Zürn,unknown,low,Zürn,DE,2
+HALDRUP,Haldrup,Haldrup,Haldrup,DE,high,HALDRUP GmbH,DE,1
+SIMON,Simon,Simon,Simon Group,FR,medium,Machines Simon,FR,2
+AGRI PARTS,Agri Parts,Agri Parts,Agri Parts,IT,high,Agri Parts,IT,2
+BALMET,Balmet,Balmet,Balmet,PL,high,ZPH BALMET Jan Balasiński,PL,2
+TECNOFRUIT,Tecnofruit,Tecnofruit,Darwin Harvesting Group,IT,medium,Darwin Harvesting Group,IT,1
+ROLMEX,Rolmex,Rolmex,Rolmex,PL,high,ROLMEX Misiuda,PL,2
+MATENG,Mateng,Mateng,Mateng,CN,medium,Mateng,CN,2
+BOURGOIN,Bourgoin,Bourgoin,Ploeger Oxbo Group,NL,high,Ploeger Oxbo Group,NL,1
+HT,HT,Hightop,Hightop,CN,medium,HT S.r.l.,IT,2
+RI MA,RI.MA,RIMA,RIMA,unknown,low,RI.MA,IT,2
+KFMR,Krukowiak,Krukowiak,Krukowiak,PL,high,KFMR Krukowiak,PL,1
+SIPMA,SIPMA,SIPMA,SIPMA,PL,high,SIPMA,PL,2
+ASA LIFT,ASA-Lift,ASA-LIFT,GRIMME,DE,high,Grimme,DE,2
+SIMSEK,Simsek Makine,Şimşek Tarım Makinaları,Şimşek Tarım Makinaları,TR,high,Simsek Makine,TR,1
+STIHL,Stihl,Stihl,Stihl,DE,high,Stihl,DE,2
+NARDI,Nardi,Nardi,Xete Investments,GB,medium,Nardi Harvester,IT,2
+MASCHIO GASPARDO,Maschio Gaspardo,Maschio Gaspardo,Maschio Holding,IT,high,Maschio Gaspardo,IT,1
+ELIBOL,Elibol,Elibol,Elibol,TR,medium,Elibol,TR,2
+IMAC,IMAC,IMAC,IMAC,IT,high,IMAC Srl (Imac Rondelli),IT,2
+TECNOMAIS,Tecnomais,Tecnomais,Tecnomais,IT,high,Tecnomais,IT,1
+OPTIGEP,Optigep,Optigép,Optigép,HU,high,Optigep,HU,1
+MONCHIERO,Monchiero,Monchiero,Monchiero,IT,high,Monchiero,IT,1
+HORSCH,Horsch,Horsch,Horsch,DE,high,Horsch,DE,2
+DNIPRO M,Dnipro-M,Dnipro-M,Dnipro-M,UA,high,Dnipro-M,UA,1
+KARADAS,Karadaş,Karatas,Karatas,TR,high,Karadaş Makina,TR,1
+MORESIL,Moresil,Moresil,Moresil,ES,high,Moresil,ES,1
+GREGOIRE,Grégoire,Grégoire,SDF,IT,high,SDF Group,IT,1
+VV,VV (Venturoso Valentini),Venturoso Valentini,Venturoso Valentini,BR,high,Venturoso Valentini,BR,1
+STARK,Stark,Stark,Canelco,FI,high,UAB Agrotekas,LT,2
+BROCH,J.J. Broch,J.J. Broch,J.J. Broch,ES,high,J.J. Broch,ES,2
+HONEY BEE,Honey Bee,Honey Bee,Honey Bee,CA,high,Honey Bee,CA,1
+WINZOR,Winzor,Winzor,Winzor,GB,low,Winzor,н/д,2
+WEREMCZUK,Weremczuk,Weremczuk,Weremczuk,PL,high,Weremczuk,PL,1
+AKTURK,Aktürk,Aktürk Makina,Aktürk Makina,TR,high,Aktürk,TR,2

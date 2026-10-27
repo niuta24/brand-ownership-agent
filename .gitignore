@@ -1,0 +1,20 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# run outputs and any real customs data (proprietary) -- only data/ is published
+output/
+*.csv
+*.xlsx
+*.xls
+*.log
+*.zip
+!data/**/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+.DS_Store
